@@ -7,6 +7,9 @@ First Major Project in the field of Data Analytics using Tableau  .
 
 This interactive Sales Dashboard is designed to provide a comprehensive view of a company's sales performance over time, using Tableau for advanced visualization and storytelling. It combines multiple KPIs, comparative metrics, and detailed breakdowns to support strategic decision-making.
 
+*** A Small HeadsUp -> The data is taken for a span of 4 years (2020,2021,2022,2023) so user can switch between them to see YOY changes. There is a small Customer Dashboard Linked too. ***
+
+
 🔍 Key Features:
 
 Key Performance Indicators (KPIs):
