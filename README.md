@@ -34,6 +34,6 @@ Weekly Sales & Profit Trends:
   Spot opportunities to improve profitability.
 
 🛠️ Tools & Techniques:
-  Tableau Public for visualization
-  Excel for data cleaning and prep
-  Dashboard UX design for performance monitoring
+    Tableau Public for visualization ,
+    Excel for data cleaning and prep ,
+    Dashboard UX design for performance monitoring
