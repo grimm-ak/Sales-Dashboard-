@@ -1,4 +1,8 @@
 # Sales-Dashboard-
+
+# 📊 Interactive Sales Dashboard – Tableau Project
+🔗 **[View Live Dashboard on Tableau Public](https://public.tableau.com/app/profile/your-link-here)**  
+
 First Major Project in the field of Data Analytics using Tableau  .
 
 This interactive Sales Dashboard is designed to provide a comprehensive view of a company's sales performance over time, using Tableau for advanced visualization and storytelling. It combines multiple KPIs, comparative metrics, and detailed breakdowns to support strategic decision-making.
