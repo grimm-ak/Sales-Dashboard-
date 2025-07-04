@@ -1,7 +1,7 @@
 # Sales-Dashboard-
 
 # 📊 Interactive Sales Dashboard – Tableau Project
-🔗 **[View Live Dashboard on Tableau Public](https://public.tableau.com/app/profile/your-link-here)**  
+🔗 **[View Live Dashboard on Tableau Public](https://public.tableau.com/views/MajorProject1_17514805857820/SalesDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**  
 
 First Major Project in the field of Data Analytics using Tableau  .
 
